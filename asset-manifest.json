@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a141c784.css",
-    "main.js": "/static/js/main.df5a36ac.js",
+    "main.css": "/static/css/main.f9f624c3.css",
+    "main.js": "/static/js/main.4939c853.js",
     "static/media/lowpoly.png": "/static/media/lowpoly.a1aba16d28ad89a8776d.png",
     "static/media/glide.png": "/static/media/glide.5a56c953e27946a417f5.png",
     "static/media/glide_coins.png": "/static/media/glide_coins.7038b97af23d065ee00f.png",
     "static/media/glide_menu.png": "/static/media/glide_menu.2bf903e7c983db94a80d.png",
     "static/media/Headshot.jpg": "/static/media/Headshot.100a4a679752f4839f34.jpg",
     "static/media/glide_end.png": "/static/media/glide_end.7e59a72b19badbcaef49.png",
+    "static/media/port1.png": "/static/media/port1.983f05976127cd84b263.png",
+    "static/media/port2.png": "/static/media/port2.8416d59a187ca4f1f72b.png",
     "static/media/spleg.png": "/static/media/spleg.128e0c64a90857aa4596.png",
     "static/media/Roboto.ttf": "/static/media/Roboto.24c71ebd53c3ed50accb.ttf",
+    "static/media/Resume-CompE.pdf": "/static/media/Resume-CompE.2c817b5fe87123cb6919.pdf",
     "static/media/maze_out.png": "/static/media/maze_out.8a759cdcebe781966653.png",
     "static/media/spleg_start.png": "/static/media/spleg_start.161989917761633e810a.png",
     "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.bc405e852883934268b5.ttf",
@@ -24,11 +27,11 @@
     "static/media/spleg_networking.png": "/static/media/spleg_networking.1daafd0204670d905a05.png",
     "static/media/up-arrow.svg": "/static/media/up-arrow.c2de9b936cb4237f8b8c40ce2c48eece.svg",
     "index.html": "/index.html",
-    "main.a141c784.css.map": "/static/css/main.a141c784.css.map",
-    "main.df5a36ac.js.map": "/static/js/main.df5a36ac.js.map"
+    "main.f9f624c3.css.map": "/static/css/main.f9f624c3.css.map",
+    "main.4939c853.js.map": "/static/js/main.4939c853.js.map"
   },
   "entrypoints": [
-    "static/css/main.a141c784.css",
-    "static/js/main.df5a36ac.js"
+    "static/css/main.f9f624c3.css",
+    "static/js/main.4939c853.js"
   ]
 }
